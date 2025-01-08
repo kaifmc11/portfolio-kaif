@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/portfolio-kaif/static/css/main.36294a00.css",
-    "main.js": "/portfolio-kaif/static/js/main.a1d8a701.js",
+    "main.js": "/portfolio-kaif/static/js/main.16d95c75.js",
+    "static/media/KaifResume.pdf": "/portfolio-kaif/static/media/KaifResume.7c0d7b4a9d57ebbf661f.pdf",
     "static/media/profile.png": "/portfolio-kaif/static/media/profile.4a7f056debbb1433024f.png",
     "static/media/project1.jpg": "/portfolio-kaif/static/media/project1.ccb4af18aa92dfe7c35f.jpg",
-    "static/media/KaifResume.pdf": "/portfolio-kaif/static/media/KaifResume.c8f5da0fa7e9c85e7aee.pdf",
     "static/media/project3.jpg": "/portfolio-kaif/static/media/project3.ba67c782808688ca0883.jpg",
     "static/media/project2.jpg": "/portfolio-kaif/static/media/project2.cc8fca5741bd4be21716.jpg",
     "index.html": "/portfolio-kaif/index.html",
     "main.36294a00.css.map": "/portfolio-kaif/static/css/main.36294a00.css.map",
-    "main.a1d8a701.js.map": "/portfolio-kaif/static/js/main.a1d8a701.js.map"
+    "main.16d95c75.js.map": "/portfolio-kaif/static/js/main.16d95c75.js.map"
   },
   "entrypoints": [
     "static/css/main.36294a00.css",
-    "static/js/main.a1d8a701.js"
+    "static/js/main.16d95c75.js"
   ]
 }
